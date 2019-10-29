@@ -23954,9 +23954,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="180"/>
 <part name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="180"/>
 <part name="R9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="150"/>
-<part name="JP20" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select A"/>
-<part name="JP21" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select B"/>
-<part name="JP22" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select C"/>
+<part name="JP20" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select 940"/>
+<part name="JP21" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select 850"/>
+<part name="JP22" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="LED Select 660"/>
 <part name="JP19" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Pwm Select"/>
 <part name="IC7" library="analog-devices" library_urn="urn:adsk.eagle:library:102" deviceset="AD623" device="R" package3d_urn="urn:adsk.eagle:package:30987/2"/>
 <part name="IC8" library="analog-devices" library_urn="urn:adsk.eagle:library:102" deviceset="AD822" device="R" package3d_urn="urn:adsk.eagle:package:30987/2"/>
@@ -24002,8 +24002,8 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="Q4" library="crystal" library_urn="urn:adsk.eagle:library:204" deviceset="CRYSTAL" device="HC49U70" package3d_urn="urn:adsk.eagle:package:12079/1" value="12MHz"/>
 <part name="GND" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="JP12" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="PWM Select"/>
-<part name="JP13" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="ADC select 0"/>
-<part name="JP14" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="ADC select 1"/>
+<part name="JP13" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="ADC select"/>
+<part name="JP14" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="ADC select"/>
 <part name="JP15" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="MCU Select"/>
 <part name="JP16" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="MCU Select"/>
 <part name="IC11" library="BloodMonLib" deviceset="MAX11644EUA+" device=""/>
@@ -24029,12 +24029,12 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="PHDA3" library="adafruit" deviceset="DIODE" device="SOT23_WAVE" value="BPW34"/>
 <part name="PHDB4" library="adafruit" deviceset="DIODE" device="_SOD-123FL" value="SFH 2700"/>
 <part name="PHDA4" library="adafruit" deviceset="DIODE" device="SOT23_WAVE" value="BPW34"/>
-<part name="JP4" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Type select 0"/>
-<part name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Type select 0"/>
-<part name="JP2" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Setup select 0"/>
-<part name="JP5" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Setup select 1"/>
-<part name="JP6" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Type select 1"/>
-<part name="JP9" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Type select 1"/>
+<part name="JP4" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Diode select 0"/>
+<part name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Diode select 0"/>
+<part name="JP2" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Setup select"/>
+<part name="JP5" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Setup select"/>
+<part name="JP6" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Diode select 1"/>
+<part name="JP9" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2" value="Diode select 1"/>
 <part name="JP10" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X6" device="" package3d_urn="urn:adsk.eagle:package:22472/2" value="PIC24F16 header"/>
 <part name="JP17" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X6" device="" package3d_urn="urn:adsk.eagle:package:22472/2" value="PIC16F18 header"/>
 <part name="C10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="025-025X050" package3d_urn="urn:adsk.eagle:package:23629/2" value="33p"/>
@@ -24837,7 +24837,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="430.53" y1="12.7" x2="430.53" y2="1.27" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$27" class="0">
+<net name="940A" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="420.37" y1="7.62" x2="420.37" y2="10.16" width="0.1524" layer="91"/>
@@ -24846,7 +24846,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="427.99" y1="10.16" x2="420.37" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$28" class="0">
+<net name="940B" class="0">
 <segment>
 <pinref part="JP20" gate="A" pin="1"/>
 <wire x1="433.07" y1="1.27" x2="433.07" y2="10.16" width="0.1524" layer="91"/>
@@ -24855,7 +24855,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="440.69" y1="10.16" x2="440.69" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$29" class="0">
+<net name="850A" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="450.85" y1="7.62" x2="450.85" y2="10.16" width="0.1524" layer="91"/>
@@ -24864,7 +24864,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="458.47" y1="10.16" x2="458.47" y2="1.27" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$30" class="0">
+<net name="850B" class="0">
 <segment>
 <pinref part="JP21" gate="A" pin="1"/>
 <wire x1="463.55" y1="1.27" x2="463.55" y2="10.16" width="0.1524" layer="91"/>
@@ -24873,7 +24873,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="471.17" y1="10.16" x2="463.55" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$31" class="0">
+<net name="660A" class="0">
 <segment>
 <pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="478.79" y1="7.62" x2="478.79" y2="10.16" width="0.1524" layer="91"/>
@@ -24882,7 +24882,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <wire x1="486.41" y1="10.16" x2="486.41" y2="1.27" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$32" class="0">
+<net name="660B" class="0">
 <segment>
 <pinref part="JP22" gate="A" pin="1"/>
 <wire x1="491.49" y1="1.27" x2="491.49" y2="10.16" width="0.1524" layer="91"/>
